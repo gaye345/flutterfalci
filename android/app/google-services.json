@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "928099688618",
+    "project_id": "gizemlifalci-645f7",
+    "storage_bucket": "gizemlifalci-645f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928099688618:android:d25146043cb4fa793370d3",
+        "android_client_info": {
+          "package_name": "com.codegemz.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928099688618-qe5e3hepqvm4nclrk9eaf7n7hghse3e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIi1Y_ty7-wR7vqQxaVicfWb6yj0bcsQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928099688618-qe5e3hepqvm4nclrk9eaf7n7hghse3e5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928099688618-apth2v5m8epomlaq7cv2abfp36a0l751.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codegemz.helloWworld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
